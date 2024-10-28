@@ -3,6 +3,7 @@
 app/conf/local/*
 setup.php
 /media*
+media
 !/media/.htaccess
 !/media/README.md
 .DS_Store
